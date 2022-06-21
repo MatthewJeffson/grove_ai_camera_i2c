@@ -1,1 +1,1 @@
-# grove_ai_camera_i2c
+This is the example for Grove AI Camera.
